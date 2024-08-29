@@ -14,7 +14,7 @@ This project focuses on predicting crime hotspots in Chicago for the next 24 hou
   - [Crime Type Prediction](#crime-type-prediction)
 - [Evaluation](#evaluation)
 - [Results and Insights](#results-and-insights)
-- [License](#license)
+
 
 ## Project Overview
 
